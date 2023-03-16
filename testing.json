@@ -1,0 +1,18 @@
+[
+   {
+      "description" : "Description 10",
+      "name" : "Name 1",
+      "vector" : "Vector 1<img src=x onerror=alert(document.cookie)>"
+   },
+   {
+      "description" : "Description 20",
+      "name" : "Name 2",
+      "vector" : "Vector 2<img src=x onerror=alert(document.cookie)>"
+   },
+  {
+      "description" : "Description 30",
+      "name" : "Name 3",
+      "vector" : "Vector 3<img src=x onerror=alert(document.cookie)>"
+   }
+  
+]
